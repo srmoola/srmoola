@@ -1,9 +1,19 @@
 ### Hi everyone! 👋
 
-<p align="center">I'm currently a Computer Engineering student @ University of Michigan, Ann Arbor and a part-time Software Developer @ FIA. I'm passionate about areas of machine learning like deep learning and reinforcement learning:man_technologist:. You can also find me interested in robotics :robot: and how we can use deep learning to automate these robots. I've started exploring the field of electronics as well ✨ and hope to contribute to that field as well. 
-</p>
+I'm currently a 
+* Computer Engineering student @ University of Michigan, Ann Arbor
+* Software Developer @ FIA
+<p></p>
+I love building software and enjoy solving any interesting problem that’s thrown at me. When I'm not in front of a screen, you can catch me working out or playing sports. Feel free to reach out for anything, I would love to chat!
 
-<p align="center"><a href="https://twitter.com/terabyte_17"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/yash-sahijwani-b36aa3149/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://www.instagram.com/yash_sahijwani/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25></a> 
+
+<p>
+<br/>
+<a target="_blank" href="https://www.linkedin.com/in/dev-moolagani/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> 
+<a target="_blank" href="https://dev.to/srmoola"><img src="https://img.shields.io/badge/dev.to-%231DA1F2.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=black" height=25></a> 
+<a target="_blank" href="https://www.youtube.com/@satyadevmoolagani/featured"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=red" height=25></a> 
+<a target="_blank" href="https://www.satyadevmoolagani.com/"><img src="https://img.shields.io/badge/My%20Website-%23E4405F.svg?&style=for-the-badge&logo=home&logoColor=black&color=white" height=25></a> 
+<a target="_blank" href="smoolagani.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=brown" height=25></a> 
 </p>
 
 <!--
