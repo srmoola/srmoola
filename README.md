@@ -13,7 +13,7 @@ I love building software and enjoy solving any interesting problem that’s thro
 <a target="_blank" href="https://dev.to/srmoola"><img src="https://img.shields.io/badge/dev.to-%231DA1F2.svg?&style=for-the-badge&logo=dev.to&logoColor=white&color=black" height=25></a> 
 <a target="_blank" href="https://www.youtube.com/@satyadevmoolagani/featured"><img src="https://img.shields.io/badge/YouTube-%23E4405F.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=red" height=25></a> 
 <a target="_blank" href="https://www.satyadevmoolagani.com/"><img src="https://img.shields.io/badge/My%20Website-%23E4405F.svg?&style=for-the-badge&logo=home&logoColor=black&color=white" height=25></a> 
-<a target="_blank" href="mailto:smoolagani.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=brown" height=25></a> 
+<a target="_blank" href="mailto:smoolagani.dev@gmail.com"><img src="https://img.shields.io/badge/Email-%23E4405F.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=darkgreen" height=25></a> 
 </p>
 
 <!--
