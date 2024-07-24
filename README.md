@@ -1,8 +1,6 @@
 ## Hi everyone! 👋
 
-I'm currently a 
-* Computer Engineering student @ University of Michigan, Ann Arbor
-* Software Developer @ FIA
+I'm currently a Computer Engineering student @ University of Michigan, Ann Arbor
 <p></p>
 I love building software and enjoy solving any interesting problem that’s thrown at me. When I'm not in front of a screen, you can catch me working out or playing sports. Feel free to reach out for anything, I would love to chat!
 
